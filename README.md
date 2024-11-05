@@ -16,38 +16,44 @@ The table below shows:
 - Average sales by Product
 - Total Sales by Region - South has the Highest Sales by Region.
 - Monthly Sales - The Month of February has the Sales.
-  
-![Sales Data- Pivot- 1](https://github.com/user-attachments/assets/66bd4783-dfe9-4815-9aaa-9435e593cee6)
+
+![Capson-Sales_Excel Pivot](https://github.com/user-attachments/assets/eacb559a-3df0-4dfc-af6b-d0ce2823f451)
 
 ### Visualization - Graphs, Slicers and timelines.
   Using line graph, 3-D pie, 3-D line graph and slicers to show the connectivity of the products, regions and the years of sale.
 
-![Sales Data- Pivot Graphs and Slicers- 2](https://github.com/user-attachments/assets/d2119ad9-4601-4e8c-8b3e-583124831ac7)
-
+![Capson-Sales_Excel Pivot Graph](https://github.com/user-attachments/assets/f9a030fa-d6a6-48f2-a2bd-78a74288d3ad)
 
 ### Sales analysis using SQL
 - Retrieve the total sales for each product category.
-![Sales Data- Sql 1](https://github.com/user-attachments/assets/3544897f-f039-411c-8e4e-64911ac81c53)
+![Sales Sql 1](https://github.com/user-attachments/assets/3fe3ffc4-d18c-4e7e-a65d-ef5fcd41ae7d)
 
 - Find the number of sales transactions in each region.
- ![Sales Dta- Sql 2](https://github.com/user-attachments/assets/516fb488-1a26-42c0-8098-e62f4ead6cd1)
+ ![Sales- Sql 2](https://github.com/user-attachments/assets/9db225e5-40e8-4a0f-b404-6324a794e544)
 
 - Find the highest-selling product by total sales value.
-![Sales Data- Sql 3](https://github.com/user-attachments/assets/80e91298-ca09-4e0e-bcb4-6cbb1dc7a13d)
+![Sales- Sql 3](https://github.com/user-attachments/assets/6599f4af-6bd0-4c4a-b030-9a6566662b15)
+
 
 - Calculate total revenue per product.
-  ![Sales Data-Sql 4](https://github.com/user-attachments/assets/761e853e-4c0e-4242-8ad0-fa803a019d28)
+![Sales- Sql 4](https://github.com/user-attachments/assets/fc771810-5159-416d-a7bb-a2f80f3347a4)
 
+ 
 - Calculate monthly sales totals for the current year.
-![Sales Data- Sql 5](https://github.com/user-attachments/assets/15ec04d9-63fc-419c-8cac-ff33a81ff73f)
+![Sales-Sql 5](https://github.com/user-attachments/assets/4392ae7b-7f97-4603-9670-268b5f0da858)
+
 
 - Find the top 5 customers by total purchase amount
-![Sales Data- Sql 6](https://github.com/user-attachments/assets/d30d1c60-ec15-45e6-b6c9-594375a70982)
+![Sales- Sql 6](https://github.com/user-attachments/assets/9cb717ae-f3c6-4af0-a909-38c73d77cd14)
+
 
 - Calculate the percentage of total sales contributed by each region.
+![Sales- Sql 7](https://github.com/user-attachments/assets/5928f9a5-cfed-4b9f-a792-03d0f00eb0d7)
+
 
 -Identify products with no sales in the last quarter.
-![Sales Data- Sql 8](https://github.com/user-attachments/assets/dee7b7f3-7e60-4ae2-a3f3-3a0051e8e3de)
+![Sales- Sql 8](https://github.com/user-attachments/assets/6d0c8d14-1f4d-404f-8418-ebbea20c3335)
+
 
 ### Sales anaylysis using Power BI
 
