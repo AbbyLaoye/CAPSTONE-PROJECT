@@ -56,7 +56,10 @@ The table below shows:
 
 
 ### Sales anaylysis using Power BI
-
+This is a sales overview, showing top-performing products, and 
+regional breakd
+![Sales Power BI](https://github.com/user-attachments/assets/9d35c98b-b0b9-4a5f-a73a-4ffbe40da190)
+owns. 
 
 
 
@@ -71,16 +74,21 @@ and identifying key trends in cancellations and renewals.
 - The most popular subscription types
 - Sum of revenue by region
 - Momthly and yearly subscription
+  
+![Customer Pivot](https://github.com/user-attachments/assets/1409a1a5-8aa3-4fa2-a9c0-529033e29521)
 
+Visualization - Graphs, Slicers and timelines.
+  Using line graph, 3-D pie, 3-D line graph and slicers to show the subscription type, region and monthly and yearly revenue.
 
-
-
-
-
-
-
-
-
-
+![Customer- Excel- Graph](https://github.com/user-attachments/assets/1ba4aff5-a512-443e-96bb-ceedd75bf714)
 
   
+### SQL
+
+
+### Customer Analysis using Power BI
+This is a visualization that shows 
+- Customer segments, 
+- Cancellations and subscription trends
+
+![Customer-  Power BI](https://github.com/user-attachments/assets/c2034671-e627-4d38-8407-84460140b25b)
