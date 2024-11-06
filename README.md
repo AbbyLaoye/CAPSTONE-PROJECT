@@ -82,8 +82,31 @@ using line graph, 3-D pie, 3-D line graph and slicers to show the subscription t
 
 ![Customer- Excel- Graph](https://github.com/user-attachments/assets/23b9f667-94cb-4d70-9dbe-d7d962976f95)
 
-### SQL
 
+### SQL - Analysis using SQL
+- Retrieve the total number of customers from each region.
+![Customer-Sql 1](https://github.com/user-attachments/assets/c177eb74-85fb-44d7-b62f-d4bd793ecd8f)
+  
+- Find the most popular subscription type by the number of customers.
+![Customer- Sql 2](https://github.com/user-attachments/assets/d12f0f66-50ff-4487-8bcd-750bff74c92c)
+
+- Find customers who canceled their subscription within 6 months.
+![Customer- Sql 3](https://github.com/user-attachments/assets/73609a51-0212-4223-94ca-601d9ca46c34)
+  
+-  Calculate the average subscription duration for all customers.
+![Customer- Sql 4](https://github.com/user-attachments/assets/1fbf9666-2590-44a2-b59c-266918a6b6ac)
+
+- Find customers with subscriptions longer than 12 months.
+![Customer-Sql 5](https://github.com/user-attachments/assets/8b32edad-4c73-4c48-93c0-ee1f38f1f87a)
+
+- Calculate total revenue by subscription type.
+![Customer- Sql 6](https://github.com/user-attachments/assets/f4f82608-f3f1-47a4-99b4-481a5adeb1f0)
+  
+- Find the top 3 regions by subscription cancellations.
+![Customer- Sql 7](https://github.com/user-attachments/assets/7cb9d6f3-11db-47d6-b3bf-838829694a69)
+
+- Find the total number of active and canceled subscriptions
+![Customer- Sql 8](https://github.com/user-attachments/assets/a40f8941-f119-4683-bf00-62602e82e42e)
 
 
 ### Customer Analysis using Power BI
